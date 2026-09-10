@@ -238,3 +238,6 @@ This repository serves as the official landing page for Super Mario Bros. X. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Super Mario Bros. X today!**
+
+---
+**Last updated:** 2026-09-10 10:54:20 UTC
